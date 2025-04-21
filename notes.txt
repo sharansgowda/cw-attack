@@ -1,0 +1,17 @@
+-- learn python libraries for ml
+	--> numpy
+	--> pandas
+	--> matplot	
+
+-- learn required maths
+	--> calculus
+	--> linear algebra
+	--> probability and stats
+
+-- Implement 
+	--> linear regression
+	
+
+
+-- learn basic syntax and methods for ml projects
+

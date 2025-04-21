@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+ml_env/
+*.pdf
+notes.txt
+*.py
